@@ -1,0 +1,7 @@
+I find:
+	speed 1.3
+	cutoff 0.1
+	margin 0.25
+	fps 10
+	
+to be pretty good settings.
